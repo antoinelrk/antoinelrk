@@ -6,3 +6,5 @@
 ## My stats
 
 ![GithubStats](https://github-readme-stats.vercel.app/api?username=antoinelrk&count_private=false&show_icons=true&theme=material-palenight)
+
+![GithubTopLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&show_icons=true&theme=radical)
