@@ -5,4 +5,4 @@
 
 ## My stats
 
-![GithubStats](https://github-readme-stats.vercel.app/api?username=antoinelrk&count_private=true&show_icons=true&theme=radical)
+![GithubStats](https://github-readme-stats.vercel.app/api?username=antoinelrk&count_private=false&show_icons=true&theme=merko)
