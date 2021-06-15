@@ -1,4 +1,4 @@
-![Bannière](https://static.panthera.studio/github/antoinelrk/banner.png)
+![Bannière](https://static.panthera.studio/github/antoinelrk/banner2.png)
 
 # Hello world 👨‍💻
 
