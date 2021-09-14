@@ -2,7 +2,9 @@
 
 # Hello world 👨‍💻
 
-My name is Antoine
+My name is Antoine 🐿,
+
+I am a developer & content creator !
 
 ## My stats
 
