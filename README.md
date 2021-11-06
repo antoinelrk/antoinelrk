@@ -1,6 +1,6 @@
 ![Bannière](https://static.panthera.studio/github/antoinelrk/sa_ggb.jpg)
 
-<h1><center>Hi 👋, I'm Antoine</center></h1>
+<h1 align="center">Hi 👋, I'm Antoine</h1>
 
 I am a Freelance Web Developer who lives in Strasbourg, 🇫🇷 <br>
 
