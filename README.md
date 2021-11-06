@@ -1,4 +1,4 @@
-![Bannière](https://static.panthera.studio/github/antoinelrk/sa-ggb.jpg)
+![Bannière](https://static.panthera.studio/github/antoinelrk/sa_ggb.jpg)
 
 <h1 style="text-align: center;">Hi 👋, I'm Antoine</h1>
 
