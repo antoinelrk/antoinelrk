@@ -1,12 +1,8 @@
-![Bannière](https://static.panthera.studio/github/antoinelrk/banner2.png)
+![Bannière](https://static.panthera.studio/github/antoinelrk/sa-ggb.jpg)
 
-# Hello world 👨‍💻
+<h1 style="text-align: center;">Hi 👋, I'm Antoine</h1>
 
-My name is Antoine 🐿,
-
-I am a developer & content creator !
-
-## My stats
+I am a Freelance Web Developer who lives in Strasbourg, 🇫🇷 <br>
 
 ![LikesBadge](https://img.shields.io/github/stars/antoinelrk/antoinelrk?color=%233d4e66&label=Likes&style=for-the-badge)
 ![UpdateBadge](https://img.shields.io/github/last-commit/antoinelrk/antoinelrk?color=3d4e66&label=Updated&style=for-the-badge)
