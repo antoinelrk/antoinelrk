@@ -3,29 +3,35 @@
 <h1 align="center">Hi 👋, I'm Antoine</h1>
 
 <p align="center">
+    <!-- LINKED IN -->
     <a href="https://www.linkedin.com/in/antoinelrk/"><img src="https://camo.githubusercontent.com/8bb7c1de40aadb0d8eede2add7716932344b30235088d239831fe0e884de8f82/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2532302d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465"/></a>
+    <!-- TWITTER -->
     <a href="https://twitter.com/antoinelrk"><img src="https://camo.githubusercontent.com/13039975938e719b60e38191d050a182c1615f0e64a87494792c510ee111917a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747769747465722d2532333030616365652e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465"/></a>
+    <!-- DISCORD -->
     <a href=""><img src="https://camo.githubusercontent.com/3f990cfefb64f13d28397fe586c3aa38a81fde585de479205d63c79363ebe07a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d3732383944413f7374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465"/></a>
+    <!-- CODEPEN -->
     <a href=""><img src="https://camo.githubusercontent.com/9df883a0044327811502d49027e8bdcce09f89266caef16cbaeaf7cf96659977/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f646570656e2d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d636f646570656e266c6f676f436f6c6f723d7768697465"/></a>
+    <!-- STACKOVERFLOW -->
     <a href=""><img src="https://camo.githubusercontent.com/7719feed664e6d0db80662b61f591348ce889dbaf53e8ebb91668f2180d0f220/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f537461636b5f4f766572666c6f772d4645374131363f7374796c653d666f722d7468652d6261646765266c6f676f3d737461636b2d6f766572666c6f77266c6f676f436f6c6f723d7768697465"/></a>
-    <a href=""><img src="https://camo.githubusercontent.com/b7cb856d6c14e9b6e5c1e46cf5f30210472df1c67bbbf1de1da8c6698cae6eb6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d2532334637444631433f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d303030303030266c6162656c436f6c6f723d25323346374446314326636f6c6f723d253233464643453541"/></a>
-    <a href=""><img src="https://camo.githubusercontent.com/8eb9b2698f5c4955b6c6aa58617b502f6c8a2800a619c26ac396cdf5de8e1f28/687474703a2f2f696d672e736869656c64732e696f2f62616467652f2d5653253230436f64652d3030374143433f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d666666666666"/></a>
-    <a href=""><img src="https://camo.githubusercontent.com/8671d8914ff0bc3e381678d3cbceaaa6fb18772e4f72d84972ed6977af1b68bd/687474703a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e75782d3030373844363f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e7578266c6f676f436f6c6f723d666666666666"/></a>
-    <a href=""><img src="https://camo.githubusercontent.com/9f1a3c7010f509f27b284ddffb6c2b00f0c783d9ada73d984554d1e67e2fb6fd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d536173732d2532334343363639393f7374796c653d666f722d7468652d6261646765266c6f676f3d73617373266c6f676f436f6c6f723d666666666666"/></a>
-    <a href=""><img src="https://camo.githubusercontent.com/d7ce8be22991a6e4963df7952c0a65accd4441d325ea256c672cff3946f641bc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d2532333135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333"/></a>
-    <a href=""><img src="https://camo.githubusercontent.com/3089cae634b5524ec733e53b19f3f74ce09ef61897baf5f114620ebfc3916384/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d2532334534344432373f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d666666666666"/></a>
-    <a href=""><img src="https://camo.githubusercontent.com/eddd60b7352982a71a26de33147a284c075e938885122933b43448f6c9f9bdf7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3631444146423f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d666666666666"/></a>
     <!-- <a href=""><img src=""/></a> -->
     <!-- <a href=""><img src=""/></a> -->
 </p>
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <p align="center">
     I am a Freelance Web Developer who lives in Strasbourg, 🇫🇷 <br>
+    An introvert by nature, I dedicate my life to learning and creating digital content at home.<br>
+    Nature and respect for the planet are important to me.<br>
+    I like coffee and cheese, not at the same time, of course.<br>
+    Photography and music are part of my passions.<br>
+    Quality is greater than quantity.<br>
+    I am a simple person, I simply solve the problem.<br>
+    Smile is important, it’s the key to my successful days.<br>
+    Minimalism keeps me on the Road To Happiness !<br><br>
     <a href="https://profile-summary-for-github.com/user/antoinelrk">My Github Stats (Temporarily 🕥)</a>
 </p>
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h2 align="left"><b>📊 STATS (WIP)</b></h2><br>
 
