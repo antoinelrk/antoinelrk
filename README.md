@@ -17,7 +17,6 @@
     <!-- <a href=""><img src=""/></a> -->
 </p>
 
-
 <p align="center">
     I am a Freelance Web Developer who lives in Strasbourg, 🇫🇷 <br>
     An introvert by nature, I dedicate my life to learning and creating digital content at home.<br>
@@ -35,9 +34,7 @@
 
 <h2 align="left"><b>📊 STATS (WIP)</b></h2><br>
 
-<p align="left">
-    <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoinelrk&show_icons=true&layout=compact&theme=material-palenight" />
-</p>
+<p align="left"><img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoinelrk&show_icons=true&layout=compact&theme=material-palenight" /></p>
 
 <p align="left">
     <img width="60%" src="https://github-readme-stats.vercel.app/api?username=antoinelrk&count_private=false&show_icons=true&theme=material-palenight" />
