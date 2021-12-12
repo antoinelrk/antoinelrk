@@ -32,8 +32,8 @@
 
 <h2 align="left"><b>📊 STATS (WIP)</b></h2><br>
 
-<p align="left"><img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiwodd&show_icons=true&layout=compact&theme=material-palenight" /></p>
+<p align="left"><img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoinelrk&show_icons=true&layout=compact&theme=material-palenight" /></p>
 
 <p align="left">
-    <img width="60%" src="https://github-readme-stats.vercel.app/api?username=kiwodd&count_private=false&show_icons=true&theme=material-palenight" />
+    <img width="60%" src="https://github-readme-stats.vercel.app/api?username=antoinelrk&count_private=false&show_icons=true&theme=material-palenight" />
 </p>
