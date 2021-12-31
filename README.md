@@ -13,6 +13,8 @@
     <!-- <a href=""><img src=""/></a> -->
 </p>
 
+<p>Bonne année !</p>
+
 <p align="center">
     I am a Freelance System Administrator and Backend Web Developer who lives in Strasbourg, 🇫🇷<br>
     An introvert by nature, I dedicate my life to learning and creating digital content at home.<br>
