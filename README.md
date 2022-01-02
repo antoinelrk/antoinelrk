@@ -13,7 +13,7 @@
     <!-- <a href=""><img src=""/></a> -->
 </p>
 
-<p>Bonne année !</p>
+<p>Bonne année ! et bonne santé !</p>
 
 <p align="center">
     I am a Freelance System Administrator and Backend Web Developer who lives in Strasbourg, 🇫🇷<br>
