@@ -18,7 +18,7 @@
     Photography and music are part of my passions.<br>
     Quality is greater than quantity.<br>
     I am a simple person, I just solve problems.<br>
-    Smiling is important, it’s the key to my succùessful days.<br>
+    Smiling is important, it’s the key to my successful days.<br>
     Minimalism keeps me on the Road To Happiness !<br><br>
     <a href="https://profile-summary-for-github.com/user/antoinelrk">My Github Stats (Temporarily 🕥)</a>
 </p>
