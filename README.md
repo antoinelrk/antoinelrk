@@ -11,15 +11,9 @@
 </p>
 
 <p align="center">
-    I am a PHP backend developer (Jr) who lives in Strasbourg, 🇫🇷<br>
-    An introvert by nature, I dedicate my life to learning and creating digital content at home.<br>
-    Nature and respect for the planet are important to me.<br>
-    I like coffee and cheese, not at the same time, of course.<br>
-    Photography and music are part of my passions.<br>
-    Quality is greater than quantity.<br>
-    I am a simple person, I just solve problems.<br>
-    Smiling is important, it’s the key to my successful days.<br>
-    Minimalism keeps me on the Road To Happiness !<br><br>
+    Développeur backend PHP en Freelance, passionné d'automatisme & un peu perfectionniste 👉👈<br>
+    Vous êtes un particulier ? Un ou une freelance ? Si vous avec besoin d'un développeur web, je suis actuellement <span style="color: green;">disponible</span>.<br>
+    Mon <a href="https://www.malt.fr/profile/antoinelrk">profil Malt</a> est disponible pour concrétiser nos échanges, n'hésitez plus !
     <a href="https://profile-summary-for-github.com/user/kiw0dd">My Github Stats (Temporarily 🕥)</a>
 </p>
 
