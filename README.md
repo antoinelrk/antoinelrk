@@ -5,8 +5,12 @@
 <p align="center">
     <img src="https://img.shields.io/github/last-commit/kiw0dd/kiw0dd?style=for-the-badge" />
     <img src="https://img.shields.io/github/followers/kiw0dd?style=for-the-badge" />
-    <img src="https://img.shields.io/youtube/channel/subscribers/UCDfdBOvkxaYPsAKY0Zar-gA?style=for-the-badge" />
-    <img src="https://img.shields.io/twitter/follow/kiwodd?color=00acee&style=for-the-badge" />
+    <a href="https://youtube.com/">
+        <img src="https://img.shields.io/youtube/channel/subscribers/UCDfdBOvkxaYPsAKY0Zar-gA?style=for-the-badge" />
+    </a>
+    <a href="https://profile-summary-for-github.com/user/kiw0dd">
+        <img src="https://img.shields.io/twitter/follow/kiwodd?color=00acee&style=for-the-badge" />
+    </a>
     <!-- <img src="" /> -->
 </p>
 
