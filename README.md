@@ -1,6 +1,6 @@
 ![Bannière](https://static.panthera.studio/github/antoinelrk/github_banner.jpg)
 
-<h1 align="center">Hi 👋, I'm Antoine</h1>
+<h1 align="center">Hi 👋, I'm Kiwσdd</h1>
 
 <p align="center">
     <img src="https://img.shields.io/github/last-commit/kiw0dd/kiw0dd?style=for-the-badge" />
