@@ -18,7 +18,7 @@
     Développeur Backend spécialisé dans <strong>PHP</strong> <br>
     Je pratique ce langage depuis maintenant <strong>6 ans</strong> à titre personnel. Je suis aussi également passionné d'automatisme et de domotique 🤖 <br>
     Je cible les entreprises / startups qui ont maximum un effectif d'environ <strong>10 personnes</strong> <br>
-    J'aimerai participer à l'évolution d'un projet <strong>start-up** 🚀 <br>
+    J'aimerai participer à l'évolution d'un projet <strong>start-up</strong> 🚀 <br>
     Utilisation de <strong>PHP 7/8</strong> <br>
     Utilisation du framework <strong>Laravel</strong> (8/9), création d'API avec documentation.<br>
     Je peux me consacrer principalement au <strong>backend</strong> et au <strong>devops</strong> <br>
