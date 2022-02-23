@@ -19,7 +19,7 @@
     Je pratique ce langage depuis maintenant **6 ans** à titre personnel. Je suis aussi également passionné d'automatisme et de domotique 🤖 <br><br>
     Je cible les entreprises / startups qui ont maximum un effectif d'environ **10 personnes.** <br><br>
     J'aimerai participer à l'évolution d'un projet **start-up** 🚀 <br><br>
-    Utilisation de **PHP 7/8** <br><br>
+    Utilisation de <strong>PHP 7/8</strong> <br><br>
     Utilisation du framework **Laravel** (8/9), création d'API avec documentation.<br><br>
     Je peux me consacrer principalement au **backend** et au **devops** <br><br>
     J'utilise docker tout les jours depuis maintenant **1 an** <br><br>
