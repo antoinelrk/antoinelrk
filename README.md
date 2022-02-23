@@ -14,19 +14,19 @@
     <!-- <img src="" /> -->
 </p>
 
-<p align="left">Hello world,<br>
-    Développeur Backend spécialisé dans **PHP** <br>
-    Je pratique ce langage depuis maintenant **6 ans** à titre personnel. Je suis aussi également passionné d'automatisme et de domotique 🤖 <br>
-    Je cible les entreprises / startups qui ont maximum un effectif d'environ **10 personnes.** <br>
-    J'aimerai participer à l'évolution d'un projet **start-up** 🚀 <br>
+<p align="left">
+    Développeur Backend spécialisé dans <strong>PHP</strong> <br>
+    Je pratique ce langage depuis maintenant <strong>6 ans</strong> à titre personnel. Je suis aussi également passionné d'automatisme et de domotique 🤖 <br>
+    Je cible les entreprises / startups qui ont maximum un effectif d'environ <strong>10 personnes</strong> <br>
+    J'aimerai participer à l'évolution d'un projet <strong>start-up** 🚀 <br>
     Utilisation de <strong>PHP 7/8</strong> <br>
-    Utilisation du framework **Laravel** (8/9), création d'API avec documentation.<br>
-    Je peux me consacrer principalement au **backend** et au **devops** <br>
-    J'utilise docker tout les jours depuis maintenant **1 an** <br>
+    Utilisation du framework <strong>Laravel** (8/9), création d'API avec documentation.<br>
+    Je peux me consacrer principalement au <strong>backend</strong> et au <strong>devops</strong> <br>
+    J'utilise docker tout les jours depuis maintenant <strong>1 an</strong> <br>
     Je n'ai pour l'instant pas de portfolio publique, contactez moi par e-mail ou sur Malt pour en savoir plus ! <br>
     Je réponds très rapidement. Surtout sur Malt mais aussi bien par e-mail. Je possède également MS Teams<br>
-    **#php #laravel #api #freelance #backend #devops #docker #teams #html5 #css #javascript #mysql #debian #sass #slimframeworks**
-    <br>
+    <strong>#php #laravel #api #freelance #backend #devops #docker #teams #html5 #css #javascript #mysql #debian #sass #slimframeworks</strong>
+    <br><br>
     <a href="https://profile-summary-for-github.com/user/kiw0dd">My Github Stats (Temporarily 🕥)</a>
 </p>
 
