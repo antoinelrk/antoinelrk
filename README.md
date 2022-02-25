@@ -20,12 +20,12 @@
     Je cible les entreprises / startups qui ont maximum un effectif d'environ <strong>10 personnes</strong> <br>
     J'aimerai participer à l'évolution d'un projet <strong>start-up</strong> 🚀 <br>
     Utilisation de <strong>PHP 7/8</strong> <br>
-    Utilisation du framework <strong>Laravel</strong> (8/9), création d'API avec documentation.<br>
+    Utilisation du framework <strong>Laravel</strong> (8/9) pour la création d'API avec documentation.<br>
     Je peux me consacrer principalement au <strong>backend</strong> et au <strong>devops</strong> <br>
     J'utilise docker tout les jours depuis maintenant <strong>1 an</strong> <br>
     Je n'ai pour l'instant pas de portfolio publique, contactez moi par e-mail ou sur Malt pour en savoir plus ! <br>
     Je réponds très rapidement. Surtout sur <a href="https://www.malt.fr/profile/antoinelrk">Malt</a> mais aussi bien par <a href="mailto:contact@antoineleroy.fr">e-mail</a>. Je possède également MS Teams<br>
-    <strong>#php #laravel #api #freelance #backend #devops #docker #teams #html5 #css #javascript #mysql #debian #sass #slimframeworks</strong>
+    <strong>#php #laravel #freelance #backend #devops #docker #teams #html5 #css #javascript #mysql #debian #sass #slimframeworks</strong>
     <br><br>
     <a href="https://profile-summary-for-github.com/user/kiw0dd">My Github Stats (Temporarily 🕥)</a>
 </p>
