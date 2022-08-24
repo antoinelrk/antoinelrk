@@ -1,6 +1,7 @@
 # Hey, I'm Antoine 👋🏻
 
-Backend PHP developer
+Actual: Backend PHP developer
+Formation: SysAdmin/Devops
 
 ## Languages
 
