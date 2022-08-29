@@ -5,4 +5,4 @@ Formation: SysAdmin/Devops
 
 ## Languages
 
-PHP,SQL,Python
+PHP — SQL — Python
