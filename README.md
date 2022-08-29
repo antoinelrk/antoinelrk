@@ -2,7 +2,7 @@
 
 💻 Backend PHP developer
 
-🎓 SysAdmin/Devops
+🎓 SysAdmin / Devops / Python / Kubernetes
 
 ## Languages
 
