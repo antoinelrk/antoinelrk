@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Freelance Web Developer who lives in Strasbourg, 🇫🇷<br>An introvert by nature, I dedicate my life to learning and creating digital content at home.<br>Nature and respect for the planet are important to me.<br>I like coffee and cheese, not at the same time, of course.<br>Photography and music are part of my passions.<br>Quality is greater than quantity.<br>I am a simple person, I just solve problems.<br>Smiling is important, it’s the key to my successful days.<br>Minimalism keeps me on the Road To Happiness !
+I am a PHP Web Developer who lives in Strasbourg, 🇫🇷<br>An introvert by nature, I dedicate my life to learning and creating digital content at home.<br>Nature and respect for the planet are important to me.<br>I like coffee and cheese, not at the same time, of course.<br>Photography and music are part of my passions.<br>Quality is greater than quantity.<br>I am a simple person, I just solve problems.<br>Smiling is important, it’s the key to my successful days.<br>Minimalism keeps me on the Road To Happiness !
 
 
 ## 🌐 Socials:
