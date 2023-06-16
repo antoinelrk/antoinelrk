@@ -8,7 +8,7 @@ Je suis un [développeur web](https://antoinelrk.com) vivant sur Strasbourg, �
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/kiwodd) 
 
 # 💻 Hard skills
-Vous trouverez ici tout ce qui m'intéressent, des outils, des frameworks et des technologies en tout genre
+Vous trouverez ici tout ce qui m'intéresse, des outils, des frameworks et des technologies en tout genre
 ## Ce que je maîtrise
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
