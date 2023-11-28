@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Antoine LRK 🍋</h1>
 <h3 align="center">A passionate fullstack developer from Strasbourg, France</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=antoinelrk&label=Profile%20views&color=0e75b6&style=flat" alt="antoinelrk" /> </p>
+---
+[![](https://visitcount.itsvg.in/api?id=antoinelrk&icon=0&color=6)](https://visitcount.itsvg.in)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=antoinelrk" alt="antoinelrk" /></a> </p>
+![](https://github-profile-trophy.vercel.app/?username=antoinelrk&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 <p align="left"> <a href="https://twitter.com/antoinelrk" target="blank"><img src="https://img.shields.io/twitter/follow/antoinelrk?logo=twitter&style=for-the-badge" alt="antoinelrk" /></a> </p>
 
@@ -44,10 +45,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/antoinelrk"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="antoinelrk" /></a><a href="https://ko-fi.com/antoinelrk"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="antoinelrk" /></a></p><br><br>
 
+# 📊 GitHub Stats:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=antoinelrk&show_icons=true&locale=en&layout=compact" alt="antoinelrk" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antoinelrk&show_icons=true&locale=en" alt="antoinelrk" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=antoinelrk&" alt="antoinelrk" /></p>
-
+![](https://github-readme-stats.vercel.app/api?username=antoinelrk&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=antoinelrk&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=antoinelrk&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
