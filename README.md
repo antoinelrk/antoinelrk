@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [https://blog.antoinelrk.com/](https://blog.antoinelrk.com/)
 
-- 💬 Ask me about **laravel, react or**
+- 💬 Ask me about **laravel or vuejs**
 
 - 📄 Know about my experiences [https://resume.antoinelrk.com](https://resume.antoinelrk.com)
 
