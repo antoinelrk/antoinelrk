@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Antoine LRK</h1>
 <h3 align="center">A passionate fullstack developer from Strasbourg, France</h3>
+<h4 align="center">(Maintenance for 2025 update)</h4>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=antoinelrk&icon=0&color=6)](https://visitcount.itsvg.in)
